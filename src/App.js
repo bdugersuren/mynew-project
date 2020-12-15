@@ -7,8 +7,15 @@ import './App.css';
 const data = {
   data: [
     { id: 1, text: 'Task #1', start_date: '2020-02-12', duration: 3, progress: 0.6 },
+<<<<<<< HEAD
     { id: 2, text: 'Task #2', start_date: '2020-02-16', duration: 3, progress: 0.4 },
     { id: 3, text: 'Task #3', start_date: '2020-02-18', duration: 3, progress: 0.4 }
+=======
+    { id: 2, text: 'Task #2', start_date: '2020-02-17', duration: 4, progress: 0.2 },
+    { id: 3, text: 'Task #3', start_date: '2020-02-18', duration: 5, progress: 0.3 },
+    { id: 4, text: 'Task #4', start_date: '2020-02-19', duration: 6, progress: 0.6 },
+    { id: 5, text: 'Task #5', start_date: '2020-02-20', duration: 7, progress: 0.8 },
+>>>>>>> mynewbranch
   ],
   links: [
     { id: 1, source: 1, target: 2, type: '0' }
